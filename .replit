@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Basics/Output/simple_message.py"
+run = "python Basics/Output/multiline_message.py"
