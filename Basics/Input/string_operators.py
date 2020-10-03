@@ -1,0 +1,7 @@
+print("Please enter the number of lives")
+whole_number = int(input())
+print("Please enter the energy level")
+whole_number = int(input())
+print("Please enter the shield level")
+whole_number = int(input())
+print("Health has been set.")
