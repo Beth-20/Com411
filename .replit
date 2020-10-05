@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Basics/Input/string_operators.py"
+run = "python Basics/Input/overall_review.py"
