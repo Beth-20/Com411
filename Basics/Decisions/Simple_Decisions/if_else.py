@@ -1,4 +1,3 @@
-  
 
   # Ask the user for the activity type
 print("Please enter the activity to be performed.")
