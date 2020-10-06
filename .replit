@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Basics/Decisions/or_operator.py"
+run = "python Basics/Decisions/and_operator.py"
