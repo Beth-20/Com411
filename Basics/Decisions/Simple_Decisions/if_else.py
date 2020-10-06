@@ -1,9 +1,3 @@
-
-
-if ("calculate" in activity): 
-  print("performing calculations...")
-  print("Activity completed, goodbye,")
-
   
 
   # Ask the user for the activity type
