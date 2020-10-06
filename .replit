@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Basics/Decisions/nested_decisions/nested.py"
+run = "python Basics/Decisions/nested_decisions/nestception.py"
