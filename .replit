@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Basics/Decisions/Simple_Decisions/if_elif_else/bot.py"
+run = "python Basics/Decisions/Simple_Decisions/modulo_operator/bot.py"
