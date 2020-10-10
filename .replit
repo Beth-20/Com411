@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Basics/Repetitions/For_loop/membership_operators.py"
+run = "python Basics/Decisions/Review.py"

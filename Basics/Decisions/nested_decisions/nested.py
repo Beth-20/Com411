@@ -14,6 +14,8 @@ if (book.lower() == "soft"):
 else:
     print("Did you know that, books with hard covers can be more expensive! .. just something to consider")
 
+  
+
 
 
 
