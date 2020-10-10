@@ -1,6 +1,3 @@
 language = "python3"
-<<<<<<< HEAD
-run = "python Basics/Repetitions/While_loop/sum_user_numbers.py"
-=======
-run = "python Basics/Repetitions/While_loop/len.py"
->>>>>>> d5c36421952c9b7343dc92efd027266f93a6c381
+run = "python Basics/Repetitions/For_loop/simple.py"
+
