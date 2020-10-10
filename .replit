@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Basics/Decisions/Review.py"
+run = "python Basics/Repetitions/Nested_loop/nested.py"
