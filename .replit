@@ -1,4 +1,2 @@
 language = "python3"
-run = "python Basics/Repetitions/For_loop/characters.py"
-
-
+run = "python Basics/Repetitions/For_loop/reverse.py"
