@@ -1,0 +1,11 @@
+print("\nProgram started!")
+print("\nPlease enter a letter")
+letter = input()
+
+if len(letter == 1):
+    print("The ASCII code for {} is {}".format(ord(letter)))
+else:
+    print("Error, more than one character entered")
+    
+    
+print("Program ended!")
