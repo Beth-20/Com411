@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Basics/Functions/multiple_functions.py"
+run = "python Basics/Functions/return_values.py"
