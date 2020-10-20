@@ -1,22 +1,23 @@
-def display_box(word):
+def run():
+  def display_box(word):
     num_dashes = 4 + len(word)
     print("-" * num_dashes)
     print("| {} |".format(word))
     print("-" * num_dashes)
 
-def display_lower_case(word):
+  def display_lower_case(word):
     print(word.lower())
 
-def display_upper_case(word):
+  def display_upper_case(word):
     print(word.upper())
 
-def display_mirrored(word):
+  def display_mirrored(word):
     mirrored = ""
     for letter in reversed(word):
         mirrored += letter
     print("{} | {}".format(word, mirrored))
 
-def display_repeated(word):
+  def display_repeated(word):
     print("How many times should the word be displayed?")
     repetitions = int(input())
 
@@ -28,7 +29,7 @@ def display_repeated(word):
         else:
             print(display_upper_case(word))
 
-def run():
+  def run():
     print("Please enter a word:")
     word = input()
 

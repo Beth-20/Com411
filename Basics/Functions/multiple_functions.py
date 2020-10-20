@@ -1,5 +1,6 @@
+def run():
 # Define the function
-def display_ladder(steps): 
+  def display_ladder(steps): 
   # Steps
     for step in range(steps):
         print("| |")
@@ -9,10 +10,10 @@ def display_ladder(steps):
     print("| |")
 
 
-def create_ladder():
-  print("How many steps remain?")
-  steps = int(input())
-  display_ladder(steps)
+  def create_ladder():
+    print("How many steps remain?")
+    steps = int(input())
+    display_ladder(steps)
 
 # Call to function
-create_ladder()
+  create_ladder()

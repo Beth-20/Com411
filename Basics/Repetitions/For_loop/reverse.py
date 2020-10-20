@@ -1,9 +1,10 @@
 # Ask use for phrase
-print("\nWhat phrase can you see?")
-phrase = input ()
+def run():
+  print("\nWhat phrase can you see?")
+  phrase = input ()
 
-print("\nReversing...\nThe phrase is: \t", end="")
+  print("\nReversing...\nThe phrase is: \t", end="")
 
 #For loop
-for position in range(len(phrase) - 1, -1, -1):
+  for position in range(len(phrase) - 1, -1, -1):
     print(phrase[position], end="")

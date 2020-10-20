@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Basics/Modules/guess_the_number.py"
+run = "python Data/Lists/simple_list.py"
