@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Data/Lists/simple_list.py"
+run = "python Data/Lists/index_list.py"
