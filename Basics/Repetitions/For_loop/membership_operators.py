@@ -1,14 +1,15 @@
 # Ask user for a phrase
-print("\nWhat phrase can you see?")
-phrase = input ()
+def run():
+  print("\nWhat phrase can you see?")
+  phrase = input ()
 
 
-print("\nReversing...\nThe phrase is:\t", end="")
+  print("\nReversing...\nThe phrase is:\t", end="")
 
-reversed = ""
+  reversed = ""
 
 # For loop
-for letter in phrase:
+  for letter in phrase:
     reversed = letter + reversed
 
-print(reversed)
+  print(reversed)

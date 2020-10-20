@@ -1,12 +1,13 @@
-def sum_weights(beep_weight, bop_weight):
+def run():
+  def sum_weights(beep_weight, bop_weight):
     total_weight = beep_weight + bop_weight
     return total_weight
 
-def calc_avg_weight(beep_weight, bop_weight):
+  def calc_avg_weight(beep_weight, bop_weight):
     avg_weight = (beep_weight + bop_weight) / 2
     return avg_weight
 
-def run():
+  def run():
     # Ask user for weight
     print("What is the weight of Bop?")
     bop_weight = float(input())
