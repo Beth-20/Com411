@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Data/Lists/iterate_list.py"
+run = "python Data/Lists/populate_list.py"
