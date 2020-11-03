@@ -1,3 +1,7 @@
 language = "python3"
 
+<<<<<<< HEAD
 run = "python Data/Files/cwd.py"
+=======
+run = "python Data/Dicts/nested_dicts.py"
+>>>>>>> 4784464dfb2b41dd4739be5fea000abde4cea674
