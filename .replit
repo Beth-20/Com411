@@ -1,3 +1,7 @@
 language = "python3"
 
+<<<<<<< HEAD
 run = "python Visual/plots/simple.py"
+=======
+run = "python Data/Files/txt/generate.py"
+>>>>>>> c8a8eb41ec43175f3d0f35e792281023e2cc3f76
