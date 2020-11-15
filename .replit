@@ -1,3 +1,3 @@
 language = "python3"
 
-run = "python Visual/plots/paths.py"
+run = "python Visual/plots/dict.py"
