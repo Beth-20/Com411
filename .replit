@@ -1,7 +1,4 @@
 language = "python3"
 
-<<<<<<< HEAD
-run = "python Visual/subplots/temperatures.py"
-=======
-run = "python Visual/subplots/temps.py"
->>>>>>> de81128299abce75c4ef5e3dd5ea953f6123db71
+run = "python Visual/Animations/simple.py"
+
