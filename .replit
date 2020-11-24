@@ -1,4 +1,4 @@
 language = "python3"
 
-run = "python Visual/Animations/simple.py"
+run = "python Visual/Animations/marker.py"
 
