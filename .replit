@@ -1,4 +1,4 @@
 language = "python3"
 
-run = "python Visual/Animations/sine.py"
+run = "python Visual/Animations/shift_sine.py"
 
