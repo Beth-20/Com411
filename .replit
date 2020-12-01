@@ -1,5 +1,5 @@
 language = "python3"
 
 
-run = "python oop/human.py"
+run = "python oop/updated_human.py"
 
