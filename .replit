@@ -1,5 +1,5 @@
 language = "python3"
 
 
-run = "python oop/robot.py"
+run = "python oop/human.py"
 
