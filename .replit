@@ -1,5 +1,5 @@
 language = "python3"
 
 
-run = "python oop/final_robot.py"
+run = "python oop/planet.py"
 
